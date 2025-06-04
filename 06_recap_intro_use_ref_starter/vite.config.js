@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: true,
-    allowedHosts: ['final-countdown-gdzr.onrender.com']
+    allowedHosts: ['final-countdown-gdzr.onrender.com']}
 })
