@@ -7,5 +7,5 @@ export default defineConfig({
 
   server: {
     port: 5173,
-    host: 'sof-finalcountdown.onrender.com'
+    allowedHosts: ['sof-finalcountdown.onrender.com']
 }})
